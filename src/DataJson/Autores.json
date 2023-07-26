@@ -1,0 +1,23 @@
+[
+  {
+    "_id": 1,
+    "nombre": "Gabriel García Márquez",
+    "biografia": "Gabriel García Márquez fue un escritor, novelista, cuentista, guionista y periodista colombiano, considerado uno de los más grandes escritores del siglo XX. Fue galardonado con el Premio Nobel de Literatura en 1982.",
+    "nacionalidad": "Colombia",
+    "foto": "img/Gabriel García Márquez.png"
+  },
+  {
+    "_id": 2,
+    "nombre": "Antoine de Saint-Exupéry",
+    "biografia": "Antoine de Saint-Exupéry fue un escritor, periodista y aviador francés. Es conocido principalmente por su obra maestra 'El principito', un libro de literatura infantil que ha sido traducido a numerosos idiomas y se ha convertido en un clásico de la literatura universal.",
+    "nacionalidad": "Francia",
+    "foto": "img/Antoine de Saint-Exupéry.jpg"
+  },
+  {
+    "_id": 3,
+    "nombre": "Miguel de Cervantes Saavedra",
+    "biografia": "Miguel de Cervantes Saavedra fue un escritor, poeta y dramaturgo español, considerado una de las figuras más importantes de la literatura española y universal. Es conocido principalmente por su obra cumbre 'Don Quijote de la Mancha'.",
+    "nacionalidad": "España",
+    "foto": "img/Miguel de Cervantes Saavedra.jpg"
+  }
+]

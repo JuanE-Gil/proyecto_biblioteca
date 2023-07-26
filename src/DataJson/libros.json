@@ -1,0 +1,62 @@
+[
+  {
+    "_id": 1,
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "genero": "Realismo mágico",
+    "anio_publicacion": 1967,
+    "editorial": "Sudamericana",
+    "isbn": "978-987-566-566-1",
+    "cantidad_disponible": 5,
+    "precio": 250,
+    "imagen": "img/Cien años de soledad.jpg"
+  },
+  {
+    "_id": 2,
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "genero": "Literatura infantil",
+    "anio_publicacion": 1943,
+    "editorial": "Reynal & Hitchcock",
+    "isbn": "978-3-039-82156-5",
+    "cantidad_disponible": 3,
+    "precio": 180,
+    "imagen": "img/El Principito.jpg"
+  },
+  {
+    "_id": 3,
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes Saavedra",
+    "genero": "Novela de caballerías",
+    "anio_publicacion": 1605,
+    "editorial": "Francisco de Robles",
+    "isbn": "978-84-376-0494-7",
+    "cantidad_disponible": 2,
+    "precio": 300,
+    "imagen": "img/Don Quijote de la Mancha.jpg"
+  },
+  {
+    "_id": 4,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Ciencia ficción",
+    "anio_publicacion": 1949,
+    "editorial": "Secker & Warburg",
+    "isbn": "978-045-226-293-5",
+    "cantidad_disponible": 4,
+    "precio": 220,
+    "imagen": "img/1984.jpg"
+  },
+  {
+    "_id": 5,
+    "titulo": "El señor de los anillos: La comunidad del anillo",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasía épica",
+    "anio_publicacion": 1954,
+    "editorial": "Allen & Unwin",
+    "isbn": "978-054-792-820-3",
+    "cantidad_disponible": 1,
+    "precio": 350,
+    "imagen": "img/El señor de los anillos La comunidad del anillo.jpg"
+  }
+]
